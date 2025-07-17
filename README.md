@@ -1,6 +1,6 @@
-# 👋🏾 Hey, I'm Afolabi Collins — aka Collynx
+# 👋🏾 Hey, I'm Collins — aka Collynx
 
-**Full Stack Web Developer** • Tech Savvy 💻 • Building cool stuff with clean code & real vibes 😎
+**Full Stack Web Developer** • Tech Savvy 💻 • Building cool stuff with clean code 😎
 
 ---
 
@@ -52,7 +52,7 @@
 
 ### 😄 Quick Bits
 
-- 🎮 When I’m not coding, I’m gaming, watching football, vibing to music, or bingeing cool movies.
+- 🎮 When I’m not coding? I’m gaming, watching football, vibing to music, or bingeing movies.
 - 🤝 I’m open to collab on cool open-source projects or freelance gigs
 - 😤 I treat every project like it’s a product — not just an assignment
 - ⚡ Fun fact: I built a fully responsive portfolio using AI as my co-pilot... and it slaps.
