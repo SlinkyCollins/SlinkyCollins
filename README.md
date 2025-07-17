@@ -1,7 +1,6 @@
 # 👋🏾 Hey, I'm Afolabi Collins — aka Collynx
 
-**Full Stack Developer** • React ⚛️ | Node.js 🟩 | Laravel 💎 | Tailwind CSS 💨  
-Tech Savvy 💻 • Building cool stuff with clean code & real vibes 😎
+**Full Stack Web Developer** • Tech Savvy 💻 • Building cool stuff with clean code & real vibes 😎
 
 ---
 
@@ -57,11 +56,6 @@ Tech Savvy 💻 • Building cool stuff with clean code & real vibes 😎
 - 🤝 I’m open to collab on cool open-source projects or freelance gigs
 - 😤 I treat every project like it’s a product — not just an assignment
 - ⚡ Fun fact: I built a fully responsive portfolio using AI as my co-pilot... and it slaps.
-
----
-
-> *"Build with code and vibes. Ship it clean. Make 'em say damn."*  
-— Collynx 🧑🏾‍💻🔥
   
 
 <!---
