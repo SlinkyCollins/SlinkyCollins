@@ -45,8 +45,7 @@
 
 - 🐦 [X (Twitter) – @collynxcodes](https://x.com/collynxcodes)  
 - 💼 [Portfolio – collynx.vercel.app](https://collynx.vercel.app)  
-- 📧 afolabiademola27@gmail.com  
-- 👨🏾‍💻 [GitHub – SlinkyCollins](https://github.com/SlinkyCollins)
+- 📧 afolabiademola27@gmail.com
 
 ---
 
