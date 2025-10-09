@@ -28,7 +28,7 @@ I’m obsessed with **building real-world web apps**, making clean UI/UX experie
 
 ---
 
-### ⚔️ Tech Stack  
+### ⚔️ Tech Arsenal  
 
 #### 💻 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -104,7 +104,7 @@ I’m obsessed with **building real-world web apps**, making clean UI/UX experie
 
 ### 😎 Quick Bits  
 
-- 🎮 Gamer • ⚽ Football head • 🎧 Music junkie • 🎬 Movie enjoyer  
+- 🎮 Gamer • ⚽ Football head • 🎧 Music junkie • 🎬 Movie lover  
 - 🤝 Open to collabs, freelance, or cool open-source stuff  
 - 🧠 Motto: *Code loud. Ship proud.*  
 - ⚡ Fun fact: I built my portfolio using AI as my co-pilot — and it SLAPS 🔥  
