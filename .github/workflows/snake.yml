@@ -1,46 +1,45 @@
-name: Generate Snake Animation 🐍
+name: Generate Snake Game
+
 on:
   schedule:
-    # Runs once a day at midnight (you can tweak the time)
-    - cron: "0 0 * * *"
-  workflow_dispatch: # allows you to manually run it from Actions tab
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Pull your repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Generate the snake animation (SVG + GIF)
-      - name: Generate Snake 🐍
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install svgo
+        run: npm install -g svgo
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: SlinkyCollins
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3️⃣ Optimize the animation output
-      - name: Optimize Snake Animation (compress SVG)
-        run: |
-          sudo apt-get install -y svgo
-          svgo dist/github-contribution-grid-snake.svg
+      - name: Optimize SVG
+        run: svgo dist/github-contribution-grid-snake.svg -o dist/github-contribution-grid-snake.svg
 
-      # 4️⃣ Deploy the animation to the output branch
-      - name: Push Snake Animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push changes
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false # cleans up old builds
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 5️⃣ Cache cleanup (optional)
-      - name: Cleanup cache and logs
-        run: |
-          rm -rf /tmp/*
-          echo "✨ Snake animation generated and cleaned up!"
