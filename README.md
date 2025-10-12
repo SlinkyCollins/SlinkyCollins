@@ -9,7 +9,7 @@
 
 ### 👨🏾‍💻 About Me  
 
-Hey there! I’m **Collins Afolabi**, aka **Collynx** — a **Full Stack Developer** from 🇳🇬 Nigeria.  
+Hey there! I’m **Afolabi Collins**, aka **Collynx** — a **Full Stack Developer** from 🇳🇬 Nigeria.  
 I’m obsessed with **building real-world web apps**, making clean UI/UX experiences, and adding that *“smooth”* touch to everything I ship.
 
 - 🧑🏾‍💻 I build full-stack apps with **Angular / React / Vue** + **PHP / Laravel / Node**
@@ -96,7 +96,7 @@ I’m obsessed with **building real-world web apps**, making clean UI/UX experie
 
 <p align="center">
   <a href="https://x.com/collynxcodes"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://collynx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://collynx.com.ng"><img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:afolabiademola27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -107,12 +107,6 @@ I’m obsessed with **building real-world web apps**, making clean UI/UX experie
 - 🎮 Gamer • ⚽ Football head • 🎧 Music junkie • 🎬 Movie lover  
 - 🤝 Open to collabs, freelance, or cool open-source stuff  
 - 🧠 Motto: *Code loud. Ship proud.*  
-- ⚡ Fun fact: I built my portfolio using AI as my co-pilot — and it SLAPS 🔥  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SlinkyCollins&label=Profile+Views&color=00CFFF&style=flat-square" alt="Profile views" />
-</p>
+- ⚡ Fun fact: I built my portfolio using AI as my co-pilot — and it SLAPS 🔥
 
 <!-- ✨ END OF SUPREME EDITION ✨ -->
