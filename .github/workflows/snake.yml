@@ -1,12 +1,9 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: "0 */12 * * *"
-
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -19,30 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
-      - name: Install svgo
-        run: npm install -g svgo
-
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Fix file permissions
-        run: chmod 777 dist/github-contribution-grid-snake.svg
-
-      - name: Optimize SVG
-        run: svgo dist/github-contribution-grid-snake.svg -o dist/github-contribution-grid-snake-optimized.svg
-
-      - name: Replace original with optimized version
-        run: mv dist/github-contribution-grid-snake-optimized.svg dist/github-contribution-grid-snake.svg
-
-      - name: Push changes
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
