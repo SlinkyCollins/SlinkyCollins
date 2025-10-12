@@ -33,8 +33,14 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
+      - name: Fix file permissions
+        run: chmod 777 dist/github-contribution-grid-snake.svg
+
       - name: Optimize SVG
-        run: svgo dist/github-contribution-grid-snake.svg -o dist/github-contribution-grid-snake.svg
+        run: svgo dist/github-contribution-grid-snake.svg -o dist/github-contribution-grid-snake-optimized.svg
+
+      - name: Replace original with optimized version
+        run: mv dist/github-contribution-grid-snake-optimized.svg dist/github-contribution-grid-snake.svg
 
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3
