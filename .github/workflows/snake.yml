@@ -1,5 +1,4 @@
 name: Generate Snake Animation 🐍
-
 on:
   schedule:
     # Runs once a day at midnight (you can tweak the time)
