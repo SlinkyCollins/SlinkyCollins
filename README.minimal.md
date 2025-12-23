@@ -6,9 +6,9 @@ I build maintainable, production-ready web applications focused on real-world pr
 My work emphasizes clean architecture, clarity, and long-term reliability.
 
 **Primary stack**
-- Frontend: Angular, React, Vue
-- Backend: PHP, Laravel, Node.js
-- Databases: MySQL, MongoDB
+- Frontend: Angular, React, Next.js, Vue.js
+- Backend: PHP, Laravel, Node.js, Express
+- Databases: MySQL, MongoDB, Firebase
 
 **Selected work**
 - JobNet — Recruitment platform with role-based dashboards
