@@ -1,64 +1,77 @@
-#  Afolabi Collins (Collynx)
+<!-- 💫 GITHUB PROFILE README — Collynx Supreme Edition -->
 
-Full-stack developer focused on building practical, production-ready web applications.
-
-I enjoy working across the stack from clean frontend architecture to reliable backend systems with a strong bias toward **functionality first** and **clarity over complexity**.
-
-Currently based in Nigeria.
-
----
-
-## What I Work With
-
-**Frontend**
-- Angular, React, Vue
-- TypeScript, JavaScript
-- Responsive, mobile-first UI
-
-**Backend**
-- PHP, Laravel, Node.js
-- REST APIs
-- Authentication & role-based systems
-
-**Database**
-- MySQL, MongoDB
-
-**Tools**
-- Git & GitHub
-- REST clients (Postman)
-- Linux / Windows environments
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ademola+Afolabi+Collins+%E2%80%94+aka+Collynx!;Full+Stack+Developer+%F0%9F%92%BB;Tech+Savvy+%7C+Builder+%7C+Creator;I+Turn+Ideas+Into+Clean+%26+Functional+Apps" alt="Typing animation" />
+</p>
 
 ---
 
-## Projects
+### About Me  
 
-- **JobNet**  
-  A full-stack job portal with role-based dashboards for job seekers, employers, and admins.  
-  *Angular + PHP + MySQL*
+Full-stack web developer based in Nigeria.
 
-- **Mini Bank App**  
-  A mobile-first banking simulation focused on clean UI and state handling.
+I build production-ready web applications with a focus on clean architecture, maintainability, and real-world usability. I care less about flashy demos and more about software that works, scales, and can be maintained long after it’s shipped.
 
-- **Notes App**  
-  Simple CRUD application built to reinforce data flow and component architecture.
+Most of my work centers around turning practical ideas into reliable systems from backend logic to frontend experience with clarity and intention.
+
+[Email Me](mailto:afolabiademola27@gmail.com) • [LinkedIn](https://www.linkedin.com/in/afolabi-ademola-851842280) • [Twitter](https://x.com/collynxcodes)
 
 ---
 
-## How I Build
+### Tech Arsenal  
 
-- Functionality before polish  
-- Small, testable features  
-- Clean API boundaries  
-- Maintainable code over clever code  
+#### Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-I treat projects like real systems even when they start as school work.
+#### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### Styling & Tools  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+#### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ---
 
-### 📊 GitHub Stats  
+### Featured Projects  
+
+- [**JobNet**](https://jobnet.vercel.app) 
+  
+  A full-stack recruitment platform designed to connect job seekers with verified employers.  
+  Focused on real hiring workflows: job posting, applications, dashboards, and role-based access.  
+  Built with Angular, PHP, and MySQL.
+
+- [**NairaNest**](https://nairanest.vercel.app)  
+  
+  A banking web application that simulates real financial operations such as authentication, transaction history, and balance tracking.  
+  Built to model how modern digital banking systems are structured and managed.  
+  Built with the MERN stack.
+
+- [**My Portfolio**](https://collynx.vercel.app)
+  
+  A personal portfolio website built to showcase projects, skills, and experience with clarity and motion.  
+  Designed for performance, clean visuals, and smooth interactions.  
+  Built with React, Tailwind CSS, and Framer Motion.
+  
+---
+
+### GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SlinkyCollins&show_icons=true&theme=radical&count_private=true" height="180em" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlinkyCollins&theme=radical" height="180em" />
 </p>
 
@@ -68,7 +81,7 @@ I treat projects like real systems even when they start as school work.
 
 ---
 
-### 🧩 Contribution Heatmap  
+### Contribution Heatmap  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlinkyCollins&theme=react-dark&hide_border=true&bg_color=0D1117&color=00CFFF&line=00CFFF&point=FFFFFF" alt="GitHub Activity Graph" />
@@ -76,7 +89,7 @@ I treat projects like real systems even when they start as school work.
 
 ---
 
-### 🐍 Snake Animation  
+### Snake Animation  
 
 <p align="center">
   <img src="https://github.com/SlinkyCollins/SlinkyCollins/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -86,8 +99,14 @@ I treat projects like real systems even when they start as school work.
 
 ---
 
-## Contact
+### Quick Bits  
 
-- Portfolio: https://collynx.vercel.app  
-- X (Twitter): https://x.com/collynxcodes  
-- Email: afolabiademola27@gmail.com
+- Gamer • Football head • Music junkie • Movie lover  
+- Open to collabs, freelance, or cool open-source stuff  
+- ⚡ Fun fact: I built my portfolio using AI as my co-pilot — and it SLAPS 🔥
+
+---
+
+`😉 Thanks for visiting! Drop a star ⭐ on any repo you like!`
+
+<!-- ✨ END OF SUPREME EDITION ✨ -->
