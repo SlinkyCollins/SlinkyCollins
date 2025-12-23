@@ -1,54 +1,57 @@
-<!-- 💫 GITHUB PROFILE README — Collynx Supreme Edition -->
+#  Afolabi Collins (Collynx)
 
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Collins+%E2%80%94+aka+Collynx!;Full+Stack+Developer+%F0%9F%92%BB;Tech+Savvy+%7C+Builder+%7C+Creator;I+Turn+Ideas+Into+Clean+%26+Functional+Apps" alt="Typing animation" />
-</p>
+Full-stack developer focused on building practical, production-ready web applications.
 
----
+I enjoy working across the stack from clean frontend architecture to reliable backend systems with a strong bias toward **functionality first** and **clarity over complexity**.
 
-### 👨🏾‍💻 About Me  
-
-Hey there! I’m **Afolabi Collins**, aka **Collynx** — a **Full Stack Developer** from 🇳🇬 Nigeria.  
-I’m obsessed with **building real-world web apps**, making clean UI/UX experiences, and adding that *“smooth”* touch to everything I ship.
-
-- 🧑🏾‍💻 I build full-stack apps with **Angular / React / Vue** + **PHP / Laravel / Node**
-- ⚙️ I enjoy combining logic with design — performance *and* vibe
-- 🚀 Always leveling up my stack and my personal brand
-- 🎯 Life goal: Build tech that makes noise globally 🌍
+Currently based in Nigeria.
 
 ---
 
-### 🧠 Currently Leveling Up  
+## What I Work With
 
-- ⚡ Advanced **GSAP / Framer Motion** animations  
-- ☁️ CI/CD and **DevOps deployment pipelines**  
-- 🔥 Scalable backend with **Laravel + Vue.js**  
-- 🧠 Personal branding and portfolio evolution  
+**Frontend**
+- Angular, React, Vue
+- TypeScript, JavaScript
+- Responsive, mobile-first UI
+
+**Backend**
+- PHP, Laravel, Node.js
+- REST APIs
+- Authentication & role-based systems
+
+**Database**
+- MySQL, MongoDB
+
+**Tools**
+- Git & GitHub
+- REST clients (Postman)
+- Linux / Windows environments
 
 ---
 
-### ⚔️ Tech Arsenal  
+## Projects
 
-#### 💻 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+- **JobNet**  
+  A full-stack job portal with role-based dashboards for job seekers, employers, and admins.  
+  *Angular + PHP + MySQL*
 
-#### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- **Mini Bank App**  
+  A mobile-first banking simulation focused on clean UI and state handling.
 
-#### 🎨 Styling & Tools  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+- **Notes App**  
+  Simple CRUD application built to reinforce data flow and component architecture.
 
-#### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+---
+
+## How I Build
+
+- Functionality before polish  
+- Small, testable features  
+- Clean API boundaries  
+- Maintainable code over clever code  
+
+I treat projects like real systems even when they start as school work.
 
 ---
 
@@ -83,30 +86,8 @@ I’m obsessed with **building real-world web apps**, making clean UI/UX experie
 
 ---
 
-### 🚀 Featured Projects  
+## Contact
 
-- 💼 **JobNet** – Job portal (Angular + PHP + MySQL)  
-- 💳 **Mini Bank App** – Animated mobile-first UI  
-- 📝 **Notes App** – Full CRUD with Angular  
-- 🌐 [**My Portfolio**](https://collynx.vercel.app)
-
----
-
-### 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://x.com/collynxcodes"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://collynx.com.ng"><img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:afolabiademola27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 😎 Quick Bits  
-
-- 🎮 Gamer • ⚽ Football head • 🎧 Music junkie • 🎬 Movie lover  
-- 🤝 Open to collabs, freelance, or cool open-source stuff  
-- 🧠 Motto: *Code loud. Ship proud.*  
-- ⚡ Fun fact: I built my portfolio using AI as my co-pilot — and it SLAPS 🔥
-
-<!-- ✨ END OF SUPREME EDITION ✨ -->
+- Portfolio: https://collynx.vercel.app  
+- X (Twitter): https://x.com/collynxcodes  
+- Email: afolabiademola27@gmail.com
