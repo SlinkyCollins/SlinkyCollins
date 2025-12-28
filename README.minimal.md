@@ -17,3 +17,5 @@ My work emphasizes clean architecture, clarity, and long-term reliability.
 
 📫 afolabiademola27@gmail.com  
 🌐 https://collynx.vercel.app
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlinkyCollins&theme=algolia)
