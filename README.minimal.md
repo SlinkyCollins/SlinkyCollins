@@ -1,6 +1,6 @@
-## Ademola Afolabi Collins (Collynx)
+## Ademola Afolabi Collins (a.k.a. Collynx)
 
-Full-stack web developer.
+Full-Stack Software Engineer.
 
 I build maintainable, production-ready web applications focused on real-world problems.  
 My work emphasizes clean architecture, clarity, and long-term reliability.
@@ -10,10 +10,11 @@ My work emphasizes clean architecture, clarity, and long-term reliability.
 - Backend: PHP, Laravel, Node.js, Express
 - Databases: MySQL, MongoDB, Firebase
 
-**Selected work**
-- JobNet — Recruitment platform with role-based dashboards
-- NairaNest — Banking web application
-- Portfolio — Personal site showcasing projects and experience
+**Selected Work**
+- [**Vaultly**](https://vaultlydemo.vercel.app) — Production-style digital banking platform with secure transactions and concurrency handling
+- [**JobNet**](https://jobnet.vercel.app) — Global recruitment platform with role-based hiring workflows
+- [**NairaNest**](https://nairanest.vercel.app) — Core banking simulation with atomic transactions and analytics dashboards
+- [**Phone OS Simulator**](https://slinkycollins.github.io/Phone-App) — Browser-based mobile OS simulation built with Vanilla JavaScript
 
 📫 afolabiademola27@gmail.com  
 🌐 https://collynx.vercel.app
