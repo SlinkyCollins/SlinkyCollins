@@ -6,12 +6,12 @@ Full-Stack Software Engineer focused on building reliable, production-ready web 
 
 I enjoy solving real-world problems through clean architecture, scalable backend systems, and intuitive user experiences. My focus is on building maintainable software that performs reliably and scales with confidence.
 
-### Primary Stack
+### 🔸Primary Stack
 - **Frontend:** Angular, React, Next.js, Vue.js
 - **Backend:** PHP, Laravel, Node.js, Express
 - **Databases:** MySQL, MongoDB, Firebase
 
-### Selected Work
+### 🔸Selected Work
 - [**Vaultly**](https://vaultlydemo.vercel.app) — Production-style digital banking platform with secure transactions and concurrency handling.
 - [**JobNet**](https://jobnet.vercel.app) — Global recruitment platform with role-based hiring workflows.
 - [**NairaNest**](https://nairanest.vercel.app) — Core banking simulation with atomic transactions and analytics dashboards.
