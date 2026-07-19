@@ -1,8 +1,6 @@
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/63e08157-6480-4c3b-ac8f-52eba393930c" />
 
 
-## Afolabi Ademola Collins (Collynx)
-
 Full-Stack Software Engineer focused on building reliable, production-ready web applications.
 
 I enjoy solving real-world problems through clean architecture, scalable backend systems, and intuitive user experiences. My focus is on building maintainable software that performs reliably and scales with confidence.
