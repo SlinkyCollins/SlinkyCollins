@@ -2,20 +2,20 @@
 
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ademola+Afolabi+Collins+%E2%80%94+aka+Collynx!;Full+Stack+Developer+%F0%9F%92%BB;Tech+Savvy+%7C+Builder+%7C+Creator;I+Turn+Ideas+Into+Clean+%26+Functional+Apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ademola+Afolabi+Collins+%E2%80%94+aka+Collynx!;Full+Stack+Software+Engineer+%F0%9F%92%BB;Tech+Savvy+%7C+Builder+%7C+Creator;I+Turn+Ideas+Into+Clean+%26+Functional+Apps" alt="Typing animation" />
 </p>
 
 ---
 
 ### About Me  
 
-Full-stack web developer based in Nigeria.
+Full-Stack Software Engineer based in Nigeria.
 
 I build production-ready web applications with a focus on clean architecture, maintainability, and real-world usability. I care less about flashy demos and more about software that works, scales, and can be maintained long after it’s shipped.
 
 Most of my work centers around turning practical ideas into reliable systems from backend logic to frontend experience with clarity and intention.
 
-[Email Me](mailto:afolabiademola27@gmail.com) • [LinkedIn](https://www.linkedin.com/in/afolabi-ademola-851842280) • [Twitter](https://x.com/collynxcodes)
+[Email Me](mailto:afolabiademola27@gmail.com) • [Portfolio](https://collynx.vercel.app) • [LinkedIn](https://linkedin.com/in/ademola-afolabi-collins) 
 
 ---
 
@@ -45,26 +45,32 @@ Most of my work centers around turning practical ideas into reliable systems fro
 
 ---
 
-### Featured Projects  
+### Featured Projects
 
-- [**JobNet**](https://jobnet.vercel.app) 
-  
-  A full-stack recruitment platform designed to connect job seekers with verified employers.  
-  Focused on real hiring workflows: job posting, applications, dashboards, and role-based access.  
+- [**Vaultly**](https://vaultlydemo.vercel.app)
+
+  A production-style digital banking platform focused on secure transactions, concurrency handling, and financial integrity. <br/>
+  Implements row-level locking, audit trails, and reliable money transfers. <br/>
+  Built with Vue.js, Laravel, and MySQL.
+
+- [**JobNet**](https://jobnet.vercel.app)
+
+  A global recruitment platform connecting job seekers with employers through streamlined hiring workflows. <br/>
+  Integrates Firebase authentication, salary normalization, and role-based access control. <br/>
   Built with Angular, PHP, and MySQL.
 
-- [**NairaNest**](https://nairanest.vercel.app)  
-  
-  A banking web application that simulates real financial operations such as authentication, transaction history, and balance tracking.  
-  Built to model how modern digital banking systems are structured and managed.  
-  Built with the MERN stack.
+- [**NairaNest**](https://nairanest.vercel.app)
 
-- [**My Portfolio**](https://collynx.vercel.app)
-  
-  A personal portfolio website built to showcase projects, skills, and experience with clarity and motion.  
-  Designed for performance, clean visuals, and smooth interactions.  
-  Built with React, Tailwind CSS, and Framer Motion.
-  
+  A core banking simulation designed to model secure account management and financial operations. <br/>
+  Supports atomic balance updates, role-based access control, and analytics dashboards. <br/>
+  Built with React, Node.js, Express, and MongoDB.
+
+- [**Phone OS Simulator**](https://slinkycollins.github.io/Phone-App)
+
+  A browser-based mobile operating system that recreates native smartphone interactions in the browser. <br/>
+  Simulates app state management, persistent storage, USSD validation, Canvas games, and webcam integration. <br/>
+  Built with Vanilla JavaScript.
+
 ---
 
 ### GitHub Stats  
@@ -104,8 +110,8 @@ Most of my work centers around turning practical ideas into reliable systems fro
 ### Quick Bits  
 
 - Gamer • Football head • Music junkie • Movie lover  
-- Open to collabs, freelance, or cool open-source stuff  
-- ⚡ Fun fact: I built my portfolio using AI as my co-pilot — and it SLAPS 🔥
+- Open to collabs, remote/freelance gigs, or cool open-source stuff  
+- ⚡ Currently exploring AI Engineering, scalable backend systems, and product development.
 
 ---
 
