@@ -12,7 +12,7 @@ I enjoy solving real-world problems through clean architecture, scalable backend
 - **Databases:** MySQL, MongoDB, Firebase
 
 ### 🔸Selected Work
-- [**Vaultly**](https://vaultlydemo.vercel.app) — Production-style digital banking platform with secure transactions and concurrency handling.
+- [**Vaultly**](https://vaultlydemo.vercel.app) — Production-grade digital banking platform with secure transactions and concurrency handling.
 - [**JobNet**](https://jobnet.vercel.app) — Global recruitment platform with role-based hiring workflows.
 - [**NairaNest**](https://nairanest.vercel.app) — Core banking simulation with atomic transactions and analytics dashboards.
 - [**Phone OS Simulator**](https://slinkycollins.github.io/Phone-App) — Browser-based mobile OS simulation built with Vanilla JavaScript.
